@@ -245,7 +245,7 @@ int main(){
         }
 
         //Adjacency Matrix
-        cout << "Adjacency Matrix:" << endl;
+        cout << "Adjacency Matrix :" << endl;
         cout << "    ";
         for (int i = 0; i < v; i++){
             cout << i << " ";
